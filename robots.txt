@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Disallow scrapers/sensitive folders if any
+Disallow: /scratch/
+Disallow: /node_modules/
+
+# XML Sitemap Location
+Sitemap: https://libragroupuae.com/sitemap.xml
